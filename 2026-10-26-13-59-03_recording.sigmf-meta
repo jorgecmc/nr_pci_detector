@@ -1,0 +1,18 @@
+{
+  "annotations": [],
+  "captures": [
+    {
+      "core:datetime": "2026-10-26T13:59:03.677Z",
+      "core:frequency": 3463679998.0,
+      "core:sample_start": 0
+    }
+  ],
+  "global": {
+    "core:author": "Jorge Chen",
+    "core:datatype": "ci16_le",
+    "core:description": "",
+    "core:recorder": "Maia SDR v0.5.2",
+    "core:sample_rate": 61439999.0,
+    "core:version": "1.0.0"
+  }
+}
