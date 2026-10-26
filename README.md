@@ -22,6 +22,7 @@ pytest -v
 
 **Mode 1: Known SSB Frequency Mode (Recommended)**
 Search near the expected SSB center frequency (`3463.680 MHz`, which is `+220.002 kHz` above the `3463.459998 MHz` capture center) and generate all five diagnostic figures:
+recorded sigmf can be downloaded via https://1drv.ms/u/c/e861ca4baea3ae7b/IQBDVcqB4JkuQIqNC67PgzL6Afq5V_VmPpumlgKZQKrcEQg?e=BriZnY 
 
 ```bash
 python3 main.py recording.sigmf-data \
